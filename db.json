@@ -3,9 +3,9 @@
     {
       "slug": "custom-vape-boxes",
       "id": "custom-vape-boxes",
-      "linkTitle" : "Custom Vape Boxes",
+      "linkTitle" : "CBD Packaging",
       "link" : "Home",
-      "productTitle": "Custom CBD Roll On Boxes",
+      "productTitle": "Custom Vape Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627779934Custom-Vape-Boxes-SirePrinting%2001.png",
         "https://s3.amazonaws.com/sireprinting.com/products/1627779935Custom-Vape-Boxes-SirePrinting%2003.png-gallery2"
@@ -46,9 +46,9 @@
     {
       "slug": "e-liquid-boxes",
       "id": "e-liquid-boxes",
-      "linkTitle" : "Custom E Liquid Boxes",
+      "linkTitle" : "CBD Packaging",
       "link" : "Home",
-      "productTitle": "Custom Child Resistant Cannabis Boxes",
+      "productTitle": "Custom E Liquid Boxes",
       "productImages": [
         "https://res.cloudinary.com/sireprinting/image/upload/v1601945322/e-liquid-boxes.png",
         "https://res.cloudinary.com/sireprinting/image/upload/v1601945322/e-liquid-boxes-gallery1.png"
@@ -84,9 +84,9 @@
     {
       "slug": "hemp-tea-boxes",
       "id": "hemp-tea-boxes",
-      "linkTitle" : "Hemp Tea Boxes",
+      "linkTitle" : "CBD Packaging",
       "link" : "Home",
-      "productTitle": "Custom Cannabis Boxes",
+      "productTitle": "Hemp Tea Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627831925Hemp-Tea-Boxes-SirePrinting%2002.png-gallery1",
         "https://s3.amazonaws.com/sireprinting.com/products/1627831925Hemp-Tea-Boxes-SirePrinting%2004.png-gallery3"
@@ -111,10 +111,10 @@
     },
     {
       "slug": "medical-cannabis-boxes",
-      "id": "medical-cannabis-boxes",
+      "id": "CBD Packaging",
       "linkTitle" : "Custom Medical Cannabis Boxes",
       "link" : "Home",
-      "productTitle": "Custom CBD Concentrate Boxes",
+      "productTitle": "Custom Medical Cannabis Boxes",
       "description": [
         {
           "descriptionHeading": "Stand out of the Crowd with Elegantly Designed Custom Marijuana Medical Boxes",
@@ -150,10 +150,10 @@
     },
     {
       "slug": "pod-vape-boxes",
-      "id": "pod-vape-boxes",
+      "id": "CBD Packaging",
       "linkTitle" : "Custom CBD Pod Vape Boxes",
       "link" : "Home",
-      "productTitle": "Custom Hemp Boxes",
+      "productTitle": "Custom CBD Pod Vape Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627836715Pod-Vape-Boxes-SirePrinting%2002.png-gallery1",
         "https://s3.amazonaws.com/sireprinting.com/products/1627836716Pod-Vape-Boxes-SirePrinting%2003.png-gallery2"
@@ -189,7 +189,7 @@
     },
     {
       "slug": "hemp-pre-rolled-boxes",
-      "id": "hemp-pre-rolled-boxes",
+      "id": "CBD Packaging",
       "linkTitle" : "CBD Packaging",
       "link" : "Home",
       "productTitle": "Custom Hemp Pre Rolled Boxes",
